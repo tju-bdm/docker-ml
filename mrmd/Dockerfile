@@ -1,4 +1,4 @@
-FROM docker pull tjubdm/ml-lab:java8
+FROM tjubdm/ml-lab:java8
 
 COPY jars /opt/jars
 
