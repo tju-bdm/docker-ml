@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER CoBoosting <support@coboosting.com>
+MAINTAINER Wenrui Jiang <wenruij@gmail.com>
 
 # Install Java.
 RUN apt-get update && \
